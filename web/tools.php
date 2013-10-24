@@ -27,12 +27,12 @@
 			<div class="tools-title">
 				<span>测文胸尺寸</span>
 			</div>
-				<iframe class="app-cls" style="width:680px;height:480px;border:none;"src="/taobaoapp/size/chest.php">
+				<iframe class="app-cls" style="width:680px;height:480px;border:none;"src="/size/chest.php">
 				</iframe>
 			<div class="tools-title">
 				<span>裤子尺码对照表</span>
 			</div>
-				<iframe class="app-cls" style="width:640px;height:300px;border:none;"src="/taobaoapp/size/ku.php">
+				<iframe class="app-cls" style="width:640px;height:300px;border:none;"src="/size/ku.php">
 				</iframe>		
 		</div>
 	</body>
