@@ -1,3 +1,6 @@
+<meta name ="keywords" content = "小裁缝,测胸围,测尺寸,裤子尺码换算,衣服尺码换算,童鞋尺码,换算,美衣" />
+<meta name ="description" content = "小裁缝,测胸围,测尺寸,裤子尺码换算,衣服尺码换算,童鞋尺码,换算,美衣,专注于衣服鞋子的贴心服务" />
+
 <div class="navigation">
 			<div class="logo">
 			</div>
