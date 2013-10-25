@@ -39,19 +39,19 @@
 					</li>
 					<li>
 						<div class="meiyi-title">
-							2013新款春秋冬日系甜美订珠领蝴蝶结长袖衫女装上衣洋气女针织衫
+							2013秋冬装新款女装口袋花朵拼结蕾丝下摆长款加绒加厚卫衣绒衫
 						</div>
 						<div class="meiyi-price">
-							¥39.00
+							¥75.00
 						</div>
 						<div class="meiyi-pic">
-							<img src="http://il2.alicdn.com/bao/uploaded/i2/16898038050848322/T1qBdZFb0hXXXXXXXX_!!0-item_pic.jpg_b.jpg">
+							<img src="http://img02.taobaocdn.com/bao/uploaded/i2/14171028795978325/T1HQPtFkFdXXXXXXXX_!!0-item_pic.jpg_220x10000.jpg">
 						</div>
 						<div class="meiyi-pingjia">
-							点评:料子一般，价格便宜，性价比还可以
+							点评:黄色的和图片基本没有色差，就是上部分领口和下摆的布感觉有点松，估计洗久了会松下来，抓绒也比较厚和保暖秋衣里面的差不多，应该很暖和，总体来说挺不错的。
 						</div>
 						<div class="meiyi-buy">
-							<a target="_blank" href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fre.taobao.com%2Feauction%3Fe%3DgegG%252BPoxP2zghojqVNxKsX7UE2pgLfODorm1Hj1YRiaLltG5xFicOSZqewpHPyZzqORbb9GLroDqStWbN0%252BQ4VZatX8ks5V8%26ptype%3D100010&k=e2e107a2b72ca1b1&c=un&b=alimm_0&p=mm_33394015_0_0">
+							<a target="_blank" href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fre.taobao.com%2Feauction%3Fe%3DliKqNBjw7qIjmraEDZVrLnWZtbWw9FntHF349Ju02cmLltG5xFicOSZqewpHPyZzqORbb9GLroDqStWbN0%252BQ4VZatX8ks5V8%26ptype%3D100010&k=e2e107a2b72ca1b1&c=un&b=alimm_0&p=mm_33394015_0_0">
 								<span>去购买</span>
 							</a>	
 						</div>
@@ -78,19 +78,19 @@
 					</li>
 					<li>
 						<div class="meiyi-title">
-							2013毛呢秋冬韩版新品纯色高腰呢子半身裙修身包臀裙毛呢一步裙
+							●TITISTYLE●韩国进口面料超宽松亮色西装外套
 						</div>
 						<div class="meiyi-price">
-							¥11.00
+							¥265.00
 						</div>
 						<div class="meiyi-pic">
-							<img src="http://img02.taobaocdn.com/bao/uploaded/i2/15304027415196632/T1nBaJFixcXXXXXXXX_!!0-item_pic.jpg_b.jpg">
+							<img src="http://img02.taobaocdn.com/bao/uploaded/i2/17780031157807910/T1juLBFmVgXXXXXXXX_!!0-item_pic.jpg_220x220.jpg">
 						</div>
 						<div class="meiyi-pingjia">
 							点评:说质量是不错，但要和专营店相比，面料是有差别的，但对得起这个价了，面料有点厚，弹性很好！
 						</div>
 						<div class="meiyi-buy">
-							<a target="_blank" href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fre.taobao.com%2Feauction%3Fe%3D2oNnLSaiwdrghojqVNxKsYOe7Brl7SQaOHn0s68if2OLltG5xFicOSZqewpHPyZzqORbb9GLroDqStWbN0%252BQ4VZatX8ks5V8%26ptype%3D100010&k=e2e107a2b72ca1b1&c=un&b=alimm_0&p=mm_33394015_0_0">
+							<a target="_blank" href="http://redirect.simba.taobao.com/rd?w=unionnojs&f=http%3A%2F%2Fre.taobao.com%2Feauction%3Fe%3D%252FMFj8A%252Faz9UjmraEDZVrLkLO%252FrY0oxXwPKJZXwqcKKCLltG5xFicOSZqewpHPyZzqORbb9GLroDqStWbN0%252BQ4VZatX8ks5V8%26ptype%3D100010&k=e2e107a2b72ca1b1&c=un&b=alimm_0&p=mm_33394015_0_0">
 								<span>去购买</span>
 							</a>	
 						</div>
